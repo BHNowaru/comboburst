@@ -261,7 +261,6 @@ while True:
                     os.system("cls");
                     print("You don't have any modes toggled on! You might want to do that.")
 
-                break;
         print("=" * 16)
         input("Done! Press ENTER to continue...");
     elif (userInput == "2"):
